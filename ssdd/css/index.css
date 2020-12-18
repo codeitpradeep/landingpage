@@ -1,0 +1,18 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    letter-spacing: 2px;
+}
+
+.headtopic{
+    margin-top: 100px;
+    font-size: 50px;
+    color: #00802b;
+}
+
+.topicview{
+    margin-top: 50px;
+    line-height: 30px;
+    color: #00802b;
+}

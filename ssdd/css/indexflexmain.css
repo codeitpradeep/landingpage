@@ -1,0 +1,22 @@
+.continer{
+    display: flex;
+}
+
+
+.continer div{
+    border: 2px #ccc solid;
+    padding: 10px;
+}
+
+.box1{
+    display: block;
+    flex: 2;
+}
+.box2{
+    display: block;
+    flex: 1;
+}
+.box3{
+    display: block;
+    flex: 1;
+}
